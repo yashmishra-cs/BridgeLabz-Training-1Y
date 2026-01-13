@@ -7,7 +7,7 @@ double ar = 3.14*r*r;
 //r is radius, ar is area 
 System.out.println("Area Of Circle:" + ar);
 }
-
 }
+
 
 
