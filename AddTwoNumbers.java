@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class AddTwoNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
@@ -8,4 +8,5 @@ public class Main {
         System.out.println("Sum = " + sum);
     }
 }
+
 
